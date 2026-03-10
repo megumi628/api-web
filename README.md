@@ -3,4 +3,4 @@
 
 https://megumi628.github.io/api-web/
 
-By using the free API of open-meteo, and the chart of jsdelivr, the visualization display of urban humidity data can be achieved, presenting information such as the distribution and changes of urban humidity intuitively
+By using the free API of open-meteo, and the chart of jsdelivr, the visualization display of urban humidity data can be achieved, presenting information such as the distribution and changes of urban humidity intuitively.
